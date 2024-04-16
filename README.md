@@ -1,0 +1,3 @@
+# data_scientist_introduction
+
+データサイエンティストの入門資料です
